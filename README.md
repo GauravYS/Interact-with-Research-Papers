@@ -21,7 +21,7 @@ These following things need to be installed if you are running in Google Colab
   !pip install faiss-cpu
 ```
 ```bash
-   !pip install tiktoken
+  !pip install tiktoken
 ```
 # Additional Information
 
@@ -29,7 +29,7 @@ These following things need to be installed if you are running in Google Colab
 - [MiCoSys Lab @ SJSU](https://www.micosyslab.com/home)
 
 ## De-SaTE Paper Authors 
-Gaurav Shinde 
-Rohan Mohapatra 
-Pooja Krishan 
-Saptarshi Sengupta
+Gaurav Shinde ,
+Rohan Mohapatra , 
+Pooja Krishan ,
+Saptarshi Sengupta ,
