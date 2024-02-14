@@ -9,7 +9,7 @@ I'm a machine Learning enthusiast . My areas of interest are Deep Learning, Rein
 
 ## Installation
 
-These follwoing things need to be installed if you are running in Google Colab 
+These following things need to be installed if you are running in Google Colab 
 
 ```bash
   !pip install langchain
@@ -18,8 +18,13 @@ These follwoing things need to be installed if you are running in Google Colab
   !pip install PyPDF2
 ```
 ```bash
-   !pip install faiss-cpu
+  !pip install faiss-cpu
 ```
 ```bash
    !pip install tiktoken
 ```
+# Additional Information
+
+## Lab Information
+- [MiCoSys Lab @ SJSU](https://www.micosyslab.com/home)
+
