@@ -28,3 +28,8 @@ These following things need to be installed if you are running in Google Colab
 ## Lab Information
 - [MiCoSys Lab @ SJSU](https://www.micosyslab.com/home)
 
+## De-SaTE Paper Authors 
+Gaurav Shinde 
+Rohan Mohapatra 
+Pooja Krishan 
+Saptarshi Sengupta
